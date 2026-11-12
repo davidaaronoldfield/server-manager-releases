@@ -23,5 +23,8 @@ Run the newest installer over the existing install. Your servers and settings ar
 
 ## Support
 
-Discord: 1david25
-Email: davidaaronoldfield@gmail.com
+Website: https://scratchbuiltsoftware.com
+Email: david@scratchbuiltsoftware.com
+Discord: https://discord.gg/baCCX8B4cu
+
+Made by Scratch Built Software.
